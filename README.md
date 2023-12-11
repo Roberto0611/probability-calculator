@@ -1,6 +1,6 @@
 # Probability Calculator
 
-This is the fourth project for the "Scientific Computing with Python" certification.
+This is the fifth and last project for the "Scientific Computing with Python" certification.
 
 Made by: Roberto Ochoa cuevas.
 
